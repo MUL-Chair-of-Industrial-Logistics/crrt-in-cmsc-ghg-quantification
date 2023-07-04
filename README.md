@@ -1,4 +1,4 @@
-# GHG quantification of Intermodal Transportation in the Construction Material Supply Chain
+# GHG Quantification of Intermodal Transportation in the Construction Material Supply Chain
 
 This repository includes an Excel spreadsheet that was used to calculate different scenarios for the use of the "CemTainer" for combined road-rail transportation in the construction material supply chain. The paper is currently being reviewed.
 
